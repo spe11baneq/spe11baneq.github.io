@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Scarlett Quinn | Game Developer</title>
+
+    <meta
+        name="description"
+        content="Scarlett Quinn - Game Developer, Designer, and Creative Developer."
+    >
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <header class="navbar">
+        <div class="nav-container">
+
+            <a href="#home" class="logo">
+                SQ<span>.</span>
+            </a>
+
+            <nav>
+                <a href="#projects">Projects</a>
+                <a href="#about">About</a>
+                <a href="#skills">Skills</a>
+                <a href="#contact">Contact</a>
+            </nav>
+
+        </div>
+    </header>
+
+
+    <!-- Hero -->
+    <main>
+
+        <section id="home" class="hero">
+
+            <div class="hero-content">
+
+                <p class="eyebrow">
+                    GAME DEVELOPER / DESIGNER
+                </p>
+
+                <h1>
+                    Scarlett<br>
+                    <span>Quinn.</span>
+                </h1>
+
+                <p class="hero-description">
+                    Game developer focused on creating atmospheric,
+                    experimental, and player-driven experiences.
+                </p>
+
+                <div class="hero-buttons">
+                    <a href="#projects" class="button primary">
+                        View My Work
+                    </a>
+
+                    <a href="#contact" class="button secondary">
+                        Contact Me
+                    </a>
+                </div>
+
+            </div>
+
+            <div class="hero-decoration">
+                <div class="pixel-grid"></div>
+                <div class="hero-circle"></div>
+            </div>
+
+        </section>
+
+
+        <!-- Projects -->
+        <section id="projects" class="section">
+
+            <div class="section-header">
+                <p class="eyebrow">SELECTED WORK</p>
+
+                <h2>
+                    Projects
+                </h2>
+
+                <p>
+                    A selection of games and interactive projects
+                    I've worked on.
+                </p>
+            </div>
+
+
+            <div class="projects-grid">
+
+
+                <!-- Project 1 -->
+                <article class="project-card featured">
+
+                    <div class="project-image">
+                        <img
+                            src="assets/where-souls-wait.jpg"
+                            alt="Where Souls Wait"
+                        >
+
+                        <div class="project-overlay">
+                            <span>Unity</span>
+                            <span>2D</span>
+                            <span>Visual Novel</span>
+                        </div>
+                    </div>
+
+                    <div class="project-info">
+
+                        <p class="project-type">
+                            PERSONAL PROJECT
+                        </p>
+
+                        <h3>
+                            Where Souls Wait
+                        </h3>
+
+                        <p>
+                            A 2D horror visual novel and maze game
+                            inspired by medieval religious imagery,
+                            Dante's Divine Comedy, and themes of
+                            identity, love, and shame.
+                        </p>
+
+                        <div class="project-links">
+                            <a href="#" target="_blank">
+                                View Project →
+                            </a>
+
+                            <a href="#" target="_blank">
+                                GitHub →
+                            </a>
+                        </div>
+
+                    </div>
+
+                </article>
+
+
+                <!-- Project 2 -->
+                <article class="project-card">
+
+                    <div class="project-image">
+                        <img
+                            src="assets/pandemic-pinball.jpg"
+                            alt="Pandemic Pinball"
+                        >
+
+                        <div class="project-overlay">
+                            <span>Unity</span>
+                            <span>Roguelike</span>
+                            <span>PC</span>
+                        </div>
+                    </div>
+
+                    <div class="project-info">
+
+                        <p class="project-type">
+                            GAME CONCEPT
+                        </p>
+
+                        <h3>
+                            Pandemic Pinball
+                        </h3>
+
+                        <p>
+                            A fast-paced zombie pinball roguelike
+                            combining arcade gameplay with
+                            roguelike progression and upgrades.
+                        </p>
+
+                        <div class="project-links">
+                            <a href="#" target="_blank">
+                                View Project →
+                            </a>
+
+                            <a href="#" target="_blank">
+                                GitHub →
+                            </a>
+                        </div>
+
+                    </div>
+
+                </article>
+
+
+                <!-- Project 3 -->
+                <article class="project-card">
+
+                    <div class="project-image">
+                        <img
+                            src="assets/b360-game.jpg"
+                            alt="B360 dirtbike game"
+                        >
+
+                        <div class="project-overlay">
+                            <span>Unity</span>
+                            <span>2D</span>
+                            <span>Team Project</span>
+                        </div>
+                    </div>
+
+                    <div class="project-info">
+
+                        <p class="project-type">
+                            COMMUNITY PROJECT
+                        </p>
+
+                        <h3>
+                            B360 Dirtbike Game
+                        </h3>
+
+                        <p>
+                            A 2D educational game created for B360,
+                            focusing on dirtbike culture, STEM,
+                            customization, and interactive learning.
+                        </p>
+
+                        <div class="project-links">
+                            <a href="#" target="_blank">
+                                View Project →
+                            </a>
+
+                            <a href="#" target="_blank">
+                                GitHub →
+                            </a>
+                        </div>
+
+                    </div>
+
+                </article>
+
+
+            </div>
+
+        </section>
+
+
+        <!-- About -->
+        <section id="about" class="section about-section">
+
+            <div class="about-grid">
+
+                <div class="about-image">
+                    <img
+                        src="assets/profile.jpg"
+                        alt="Scarlett Quinn"
+                    >
+                </div>
+
+                <div class="about-content">
+
+                    <p class="eyebrow">
+                        ABOUT ME
+                    </p>
+
+                    <h2>
+                        Making games with
+                        <span>purpose.</span>
+                    </h2>
+
+                    <p>
+                        I'm a game developer interested in creating
+                        memorable experiences through gameplay,
+                        atmosphere, storytelling, and experimentation.
+                    </p>
+
+                    <p>
+                        My work ranges from small solo projects to
+                        collaborative game-development projects,
+                        with experience in game design, programming,
+                        2D assets, writing, and audio.
+                    </p>
+
+                    <a href="#contact" class="text-link">
+                        Let's work together →
+                    </a>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- Skills -->
+        <section id="skills" class="section">
+
+            <div class="section-header">
+
+                <p class="eyebrow">
+                    WHAT I DO
+                </p>
+
+                <h2>
+                    Skills
+                </h2>
+
+            </div>
+
+
+            <div class="skills-grid">
+
+                <div class="skill">
+                    <div class="skill-number">01</div>
+                    <h3>Game Design</h3>
+                    <p>
+                        Gameplay systems, mechanics, progression,
+                        level design, and player experience.
+                    </p>
+                </div>
+
+                <div class="skill">
+                    <div class="skill-number">02</div>
+                    <h3>Programming</h3>
+                    <p>
+                        Unity, C#, gameplay scripting, UI systems,
+                        enemy behavior, and game logic.
+                    </p>
+                </div>
+
+                <div class="skill">
+                    <div class="skill-number">03</div>
+                    <h3>2D Development</h3>
+                    <p>
+                        Pixel art, sprites, game assets,
+                        animation, and 2D environments.
+                    </p>
+                </div>
+
+                <div class="skill">
+                    <div class="skill-number">04</div>
+                    <h3>Creative Development</h3>
+                    <p>
+                        Narrative design, worldbuilding, writing,
+                        audio, and visual direction.
+                    </p>
+                </div>
+
+            </div>
+
+
+            <div class="tools">
+
+                <span>Unity</span>
+                <span>C#</span>
+                <span>Visual Studio</span>
+                <span>Git</span>
+                <span>GitHub</span>
+                <span>Illustrator</span>
+                <span>Piskel</span>
+                <span>Ableton Live</span>
+
+            </div>
+
+        </section>
+
+
+        <!-- Contact -->
+        <section id="contact" class="contact-section">
+
+            <div class="contact-content">
+
+                <p class="eyebrow">
+                    GET IN TOUCH
+                </p>
+
+                <h2>
+                    Let's make<br>
+                    something <span>interesting.</span>
+                </h2>
+
+                <p>
+                    Interested in working together or want to
+                    talk about game development?
+                </p>
+
+                <div class="contact-links">
+
+                    <a href="mailto:your@email.com">
+                        Email
+                    </a>
+
+                    <a
+                        href="https://github.com/YOURUSERNAME"
+                        target="_blank"
+                    >
+                        GitHub
+                    </a>
+
+                    <a
+                        href="https://www.linkedin.com/in/YOURUSERNAME/"
+                        target="_blank"
+                    >
+                        LinkedIn
+                    </a>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- Footer -->
+    <footer>
+
+        <p>
+            © 2026 Scarlett Quinn
+        </p>
+
+        <p>
+            Built with HTML, CSS & JavaScript.
+        </p>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
