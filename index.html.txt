@@ -384,19 +384,19 @@
 
                 <div class="contact-links">
 
-                    <a href="mailto:your@email.com">
+                    <a href="mailto:scarlettquinnsi@gmail.com">
                         Email
                     </a>
 
                     <a
-                        href="https://github.com/YOURUSERNAME"
+                        href="https://github.com/spe11baneq"
                         target="_blank"
                     >
                         GitHub
                     </a>
 
                     <a
-                        href="https://www.linkedin.com/in/YOURUSERNAME/"
+                        href="https://www.linkedin.com/in/scarlettquinn/"
                         target="_blank"
                     >
                         LinkedIn
